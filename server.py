@@ -1,3 +1,3 @@
-def sum_numbers( num_1 , num_2 ):
-    sum = num_1 + num_2
-    return(sum)
+def sub_numbers( num_1 , num_2 ):
+    sub = num_1 - num_2
+    return(sub)
